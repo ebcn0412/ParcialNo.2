@@ -1,0 +1,11 @@
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\bin\Debug\ParciaNo2.exe.config
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\bin\Debug\ParciaNo2.exe
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\bin\Debug\ParciaNo2.pdb
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\obj\Debug\ParciaNo2.csprojAssemblyReference.cache
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\obj\Debug\ParciaNo2.Form1.resources
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\obj\Debug\ParciaNo2.Form2.resources
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\obj\Debug\ParciaNo2.Properties.Resources.resources
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\obj\Debug\ParciaNo2.csproj.GenerateResource.cache
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\obj\Debug\ParciaNo2.csproj.CoreCompileInputs.cache
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\obj\Debug\ParciaNo2.exe
+C:\Users\ebcn0\source\repos\ParciaNo2\ParciaNo2\obj\Debug\ParciaNo2.pdb
